@@ -1,0 +1,12 @@
+/home/alex/Code/ht-search/spec/fixtures/elasticsearch/experts.json
+/home/alex/Code/ht-search/spec/fixtures/elasticsearch/#experts.json#
+/home/alex/Code/ht-search/models/expert_or_question.rb
+/home/alex/Code/ht-search/models/#expert_or_question.rb#
+/home/alex/Code/ht-search/models/user_question.rb
+/home/alex/Code/ht-search/models/#user_question.rb#
+/home/alex/Code/ht-search/api.rb
+/home/alex/Code/ht-search/#api.rb#
+/home/alex/Code/ht-search/lib/es_helper.rb
+/home/alex/Code/ht-search/lib/#es_helper.rb#
+/home/alex/Code/ht-search/models/user_answer.rb
+/home/alex/Code/ht-search/models/#user_answer.rb#
